@@ -25,9 +25,5 @@ Integrated Raspberry Pi with GUI, dermoscopic camera, LCD screen and buttons as 
 - [Demo Video](https://drive.google.com/file/d/1wD3_F7bnpxh2hldM-7_TB1_BuMB8kY5v/view?usp=sharing)
 
   
-## Authors
-
-- [@Kshitij Saluja](https://github.com/Kshitij-Saluja)
-- [@Kshitiz Goyal](https://github.com/kshitizgoyal5)
 
   
